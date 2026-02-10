@@ -8,6 +8,7 @@ _The high-authority startup directory that gives your product visibility, do-fol
 [![DR 80](https://img.shields.io/badge/DR-80%20do--follow-16a34a?style=for-the-badge)](https://startupfa.me)
 [![10K+ visits](https://img.shields.io/badge/10K%2B-monthly%20visits-16a34a?style=for-the-badge)](https://startupfa.me)
 [![Twitter](https://img.shields.io/badge/Twitter-@StartupFame-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/StartupFame)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/efd1/startupfame)
 
 [Get Featured](https://startupfa.me/login) • [Pricing](https://startupfa.me/pricing) • [Product Review](https://startupfa.me/pricing#product-review) • [Browse Startups](https://startupfa.me/startups) • [FAQ](#-frequently-asked-questions)
 
